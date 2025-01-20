@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hallo👋 ich bin Sergei Zelenkov!
 
-<!--
-**SergeiZelenkov/SergeiZelenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👩‍💻 Über mich
+Ich bin ein angehender Frontend-Entwickler. Mein Weg in die IT begann mit Vorbereitungskursen bei Netology. Am meisten hat mich die Frontend-Entwicklung begeistert! Seit Februar 2023 bin ich Student bei Netology im Bereich Frontend-Entwicklung. Derzeit bin ich neben meinem Studium auf der Suche nach meiner ersten Stelle, bei der ich meine bisherigen Erfahrungen und mein Wissen in der Praxis anwenden kann.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📚 Ich lerne derzeit intensiv Frontend-Entwicklung!
+- ⚡  Ich bringe umfangreiche Erfahrungen im Vertrieb und in der Kundenorientierung mit.
+- 🔭 Ich bin hoch motiviert, mich kontinuierlich weiterzuentwickeln und Teil eines Teams zu werden, das innovative Projekte umsetzt.
+
+
+
+
+## 🛠️
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-lightblue)
+
+
+
+
