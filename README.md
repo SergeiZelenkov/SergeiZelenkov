@@ -3,7 +3,7 @@
 
 ## 👩‍💻 Ich bin ein angehender Junior Projektmanager mit technischem Hintergrund im Bereich Frontend-Entwicklung.
 
-🧠 Was ich mitbringe 
+## 🧠 Was ich mitbringe 
 
 - Verständnis für den gesamten Entwicklungsprozess von Webprojekten
 
