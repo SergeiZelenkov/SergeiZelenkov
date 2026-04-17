@@ -1,13 +1,17 @@
 # Hallo👋 ich bin Sergei Zelenkov!
 
 
-## 👩‍💻 Über mich
-Ich bin ein angehender Frontend-Entwickler. Mein Weg in die IT begann mit Vorbereitungskursen bei Netology. Am meisten hat mich die Frontend-Entwicklung begeistert! Seit Februar 2023 bin ich Student bei Netology im Bereich Frontend-Entwicklung. Derzeit bin ich neben meinem Studium auf der Suche nach meiner ersten Stelle, bei der ich meine bisherigen Erfahrungen und mein Wissen in der Praxis anwenden kann.
+## 👩‍💻 Ich bin ein angehender Junior Projektmanager mit technischem Hintergrund im Bereich Frontend-Entwicklung.
 
+🧠 Was ich mitbringe 
 
-- 📚 Ich lerne derzeit intensiv Frontend-Entwicklung!
-- ⚡  Ich bringe umfangreiche Erfahrungen im Vertrieb und in der Kundenorientierung mit.
-- 🔭 Ich bin hoch motiviert, mich kontinuierlich weiterzuentwickeln und Teil eines Teams zu werden, das innovative Projekte umsetzt.
+- Verständnis für den gesamten Entwicklungsprozess von Webprojekten
+
+- Erfahrung in Frontend-Technologien (JavaScript, HTML, CSS, Webpack, React)
+
+- Fokus auf Prozesse, Planung und Umsetzung
+
+- Erste Erfahrung in agiler Arbeitsweise und Selbstorganisation
 
 
 
